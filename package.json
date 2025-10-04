@@ -23,6 +23,7 @@
     }
   },
   "types": "./lib/types.d.mts",
+  "sideEffects": false,
   "author": "David Anson (https://dlaa.me/)",
   "license": "MIT",
   "homepage": "https://github.com/DavidAnson/markdownlint",

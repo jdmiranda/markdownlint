@@ -7,6 +7,7 @@
     ".": "./helpers.cjs",
     "./micromark": "./micromark-helpers.cjs"
   },
+  "sideEffects": false,
   "author": "David Anson (https://dlaa.me/)",
   "license": "MIT",
   "homepage": "https://github.com/DavidAnson/markdownlint",
